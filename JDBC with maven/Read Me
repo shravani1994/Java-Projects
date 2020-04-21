@@ -1,3 +1,4 @@
 The following project connects the JSP pages to sql database using JDBC. 
 It has two links for creating an employee database and to retrieve the employee database.
 The JSP pages connect to database through layers of servlets and JDBC.
+The entire project is a maven web project, to add any external jar files like mysql connector jar file.
